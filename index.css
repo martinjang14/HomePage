@@ -1,0 +1,32 @@
+body{
+    font-size: 18px;
+    font-weight: lighter;
+    line-height: 1.5;
+    font-family: 'Noto Serif Gujarati', serif;
+}
+li{
+    font-size: 16px;
+    font-weight: lighter;
+}
+p{
+    font-size: 16px;
+    font-weight: lighter;
+}
+.achievements{
+    font-size: 15;
+    font-weight: 750;
+    color:rgb(103, 71, 248);
+}
+h1{
+    height: 30px; 
+    font-size: 30px; 
+    text-align: center;
+}
+h2{
+    font-size: 25px;
+    
+}
+.Last{
+    text-align:center;
+}
+
